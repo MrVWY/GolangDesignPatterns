@@ -8,10 +8,13 @@
     * [单例](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Creational%20Patterns/Singleton.go)  
 
 * 结构模式(Structural Patterns)
-    * 适配器  
-    * 桥接  
+    * [适配器](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/adapter.go)  
+    * [桥接](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/bridging.go)  
     * 组合  
-    * 装饰  
+    * [装饰](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/decorator.go)  
     * [外观](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/facede.go)    
     * 享元  
     * [代理](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/proxy.go)  
+
+* 行为模式(Behavioral Patterns)
+    * 观察者模式  
