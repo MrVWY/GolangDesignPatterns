@@ -1,21 +1,30 @@
-## Golang Design Patterns
+# Golang Design Patterns
 ![alt](https://github.com/MrVWY/GolangDesignPatterns/blob/master/g.jpg)
 ----
 * 创建模式(Creational Patterns)
     * 抽象工厂  
-    * [生成器](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Creational%20Patterns/builder.go)  
+    * [生成器](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Creational%20Patterns/builder.go): 使用简单对象构建复杂对象  
     * 工厂方法  
     * 对象池  
-    * [单例](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Creational%20Patterns/Singleton.go)  
+    * [单例](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Creational%20Patterns/Singleton.go): 将类型的实例化限制为一个对象  
 
 * 结构模式(Structural Patterns)
-    * [适配器](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/adapter.go)  
-    * [桥接](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/bridging.go)  
+    * [适配器](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/adapter.go): 适配另一个不兼容的接口来一起工作  
+    * [桥接](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/bridging.go): 将接口与其实现分离，以便两者可以独立变化  
     * 组合  
-    * [装饰](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/decorator.go)  
-    * [外观](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/facede.go)    
-    * [享元](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/Flyweight.go)  
-    * [代理](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/proxy.go)  
+    * [装饰](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/decorator.go): 静态或动态地向对象添加行为  
+    * [外观](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/facede.go): 使用一种类型作为许多其他类型的API  
+    * [享元](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/Flyweight.go): 运用共享技术有效地支持大量细粒度的对象  
+    * [代理](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/proxy.go): 运用共享技术有效地支持大量细粒度的对象  
 
 * 行为模式(Behavioral Patterns)
-    * 观察者模式  
+    * 观察者  
+    * 职责链
+    * 中介者
+    * 备忘录
+    * 访问者
+    * 注册
+    * 状态
+    * 策略
+    * 模板
+    
