@@ -1,5 +1,6 @@
 ## Golang Design Patterns
-
+![alt](https://github.com/MrVWY/GolangDesignPatterns/blob/master/g.jpg)
+----
 * 创建模式(Creational Patterns)
     * 抽象工厂  
     * [生成器](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Creational%20Patterns/builder.go)  
