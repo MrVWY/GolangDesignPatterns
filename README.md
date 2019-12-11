@@ -13,7 +13,7 @@
     * 组合  
     * [装饰](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/decorator.go)  
     * [外观](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/facede.go)    
-    * 享元  
+    * [享元](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/Flyweight.go)  
     * [代理](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/proxy.go)  
 
 * 行为模式(Behavioral Patterns)
