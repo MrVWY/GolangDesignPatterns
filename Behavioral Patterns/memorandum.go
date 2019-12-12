@@ -30,7 +30,7 @@ func (M *Memorandum) GetState() string  {
 	return M.Values
 }
 
-//负责人
+//负责人:负责备忘录
 type Caretaker struct {
 	Memorandums *Memorandum
 }
