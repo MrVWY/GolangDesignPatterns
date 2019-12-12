@@ -18,10 +18,10 @@
     * [代理](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Structural%20Patterns/proxy.go): 运用共享技术有效地支持大量细粒度的对象  
 
 * 行为模式(Behavioral Patterns)
-    * 观察者  
-    * 职责链
+    * [观察者](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Behavioral%20Patterns/observer.go)  
+    * [职责链](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Behavioral%20Patterns/chain_of_reponsibility.go)
     * 中介者
-    * 备忘录
+    * [备忘录](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Behavioral%20Patterns/memorandum.go) :在不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态  
     * 访问者
     * 注册
     * 状态
