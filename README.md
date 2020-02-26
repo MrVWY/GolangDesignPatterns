@@ -26,4 +26,9 @@
     * [策略](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Behavioral%20Patterns/strategy.go)
     * 模板  
     * 访问者
-    * 注册
+
+* 并发模式(Concurrency Patterns)
+    * [Active Object]() 
+
+* 函数式选项模式(Functional Options Pattern)
+    * [函数式选项式](https://github.com/MrVWY/GolangDesignPatterns/blob/master/Functional%20Options%20Patterns/Options.go)

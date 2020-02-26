@@ -14,7 +14,7 @@ type MethodRequest int  //method request
 
 const (
 	Incr MethodRequest = iota
-	Decr 
+	Decr
 )
 
 //proxy
